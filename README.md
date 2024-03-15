@@ -1,5 +1,5 @@
-# https://guri.github.io/
-Repo contains my Portfolio Website hosted as Github Pages: <a href="https://guri.github.io/">guri.github.io</a>
+# gurpreet.github.io
+Repo contains my Portfolio Website hosted as Github Pages: <a href="https://gurpreet.github.io/">gurpreet.github.io</a>
 
 ## Credits
 
